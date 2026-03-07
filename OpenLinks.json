@@ -1,37 +1,37 @@
 {
-	"title": "Harshira Official",
-	"description": "Premium lifestyle finds from Flipkart & Meesho.",
+	"title": "Harshira Official | Premium Lifestyle",
+	"description": "Exclusive collections curated for the modern home. Trending on Meesho & Flipkart.",
 	"url_base": "https://harshiraofficial.github.io/harshira-shop",
 	"theme": "brutalism",
-	"footer": "Curated by Harshira Shop",
+	"footer": "© 2026 Harshira Official • Quality You Can Trust",
 	"profile":
 		{
-			"name": "Harshira",
+			"name": "Harshira Official",
 			"avatar": "https://github.com/harshiraofficial.png",
-			"description":"Best Deals | Pan-India Shipping",
+			"description":"✨ Premium Quality • 🚚 Fast Pan-India Shipping • 📍 Surat, Gujarat",
 			"adult": false
 		}
 	,
 	"links": [
 		{
-			"name": "Shop on Meesho",
+			"name": "Latest Trends on Meesho",
 			"url": "https://www.meesho.com/HARSHIRA",
-			"icon": "/harshira-shop/icons/Web.svg"
+			"icon": "/harshira-shop/icons/Cart.svg"
 		},
 		{
-			"name": "Shop on Flipkart",
+			"name": "Best Sellers on Flipkart",
 			"url": "https://www.flipkart.com/search?q=Harshira",
-			"icon": "/harshira-shop/icons/Web.svg"
+			"icon": "/harshira-shop/icons/Star.svg"
 		},
 		{
-			"name": "Instagram",
+			"name": "Daily Updates (Instagram)",
 			"url": "https://www.instagram.com/harshira_shop",
 			"icon": "/harshira-shop/icons/Instagram.svg"
 		},
 		{
-			"name": "WhatsApp Us",
-			"url": "https://wa.me/917801903266",
-			"icon": "/harshira-shop/icons/Mail.svg"
+			"name": "Direct Order on WhatsApp",
+			"url": "https://wa.me/917801903266?text=Hi%20Harshira%20Official,%20I'm%20interested%20in%20your%20latest%20collection!",
+			"icon": "/harshira-shop/icons/WhatsApp.svg"
 		}
 	]
 }

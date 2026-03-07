@@ -1,42 +1,37 @@
 {
-	"title": "OpenLinks",
-	"description": "Free JSON-Driven template for Astro.",
-	"url_base": "https://yoursite.com",
+	"title": "Harshira Shop",
+	"description": "Premium lifestyle finds from Flipkart & Meesho.",
+	"url_base": "https://harshiraofficial.github.io/harshira-shop",
 	"theme": "brutalism",
-	"footer": "Made with ❤️ by <a href='https://e10y.dev'>E10Y</a>",
+	"footer": "Curated by Harshira Official",
 	"profile":
 		{
-			"name": "OpenLinks",
-			"avatar": "avatar/Avatar.webp",
-			"description":"OpenSource JSON-driven",
+			"name": "Harshira Official",
+			"avatar": "/harshira-shop/avatar/Avatar.webp",
+			"description":"Best Deals | Pan-India Shipping",
 			"adult": false
 		}
 	,
 	"links": [
 		{
-			"name": "GitHub",
-			"url": "https://github.com/E10YDEV/OpenLinks",
-			"icon": "/icons/GitHub.svg"
+			"name": "Shop on Meesho",
+			"url": "https://www.meesho.com/harshira_shop",
+			"icon": "/harshira-shop/icons/Web.svg"
 		},
 		{
-			"name": "Website",
-			"url": "https://e10y.dev",
-			"icon": "/icons/Web.svg"
+			"name": "Shop on Flipkart",
+			"url": "https://www.flipkart.com/search?q=Harshira",
+			"icon": "/harshira-shop/icons/Web.svg"
 		},
 		{
 			"name": "Instagram",
-			"url": "#",
-			"icon": "/icons/Instagram.svg"
+			"url": "https://www.instagram.com/harshira_shop",
+			"icon": "/harshira-shop/icons/Instagram.svg"
 		},
 		{
-			"name": "Twitter",
-			"url": "#",
-			"icon": "/icons/X.svg"
-		},
-		{
-			"name": "Mail",
-			"url": "#",
-			"icon": "/icons/Mail.svg"
+			"name": "WhatsApp Us",
+			"url": "https://wa.me/91XXXXXXXXXX",
+			"icon": "/harshira-shop/icons/Mail.svg"
 		}
 	]
 }

@@ -1,11 +1,13 @@
 import { defineConfig } from 'astro/config';
-
-/* import data from "./OpenLinks.json"; */
-
-
 import tailwindcss from '@tailwindcss/vite';
 
 export default defineConfig({
+  // Your production URL
+  site: 'https://harshiraofficial.github.io',
+  
+  // CRITICAL: This must match your GitHub repository name!
+  base: '/harshira-shop', 
+  
   vite: {
     plugins: [tailwindcss()]
   }

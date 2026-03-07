@@ -1,13 +1,13 @@
 {
-	"title": "Harshira Shop",
+	"title": "Harshira Official",
 	"description": "Premium lifestyle finds from Flipkart & Meesho.",
 	"url_base": "https://harshiraofficial.github.io/harshira-shop",
 	"theme": "brutalism",
-	"footer": "Curated by Harshira Official",
+	"footer": "Curated by Harshira Shop",
 	"profile":
 		{
-			"name": "Harshira Official",
-			"avatar": "/harshira-shop/avatar/Avatar.webp",
+			"name": "Harshira",
+			"avatar": "https://github.com/harshiraofficial.png",
 			"description":"Best Deals | Pan-India Shipping",
 			"adult": false
 		}
@@ -15,7 +15,7 @@
 	"links": [
 		{
 			"name": "Shop on Meesho",
-			"url": "https://www.meesho.com/harshira_shop",
+			"url": "https://www.meesho.com/HARSHIRA",
 			"icon": "/harshira-shop/icons/Web.svg"
 		},
 		{
@@ -30,7 +30,7 @@
 		},
 		{
 			"name": "WhatsApp Us",
-			"url": "https://wa.me/91XXXXXXXXXX",
+			"url": "https://wa.me/917801903266",
 			"icon": "/harshira-shop/icons/Mail.svg"
 		}
 	]

@@ -1,42 +1,37 @@
 {
-	"title": "OpenLinks",
-	"description": "Free JSON-Driven template for Astro.",
-	"url_base": "https://yoursite.com",
+	"title": "Harshira Official",
+	"description": "Premium lifestyle finds from Surat. Trending on Meesho & Flipkart.",
+	"url_base": "https://harshiraofficial.github.io/harshira-shop",
 	"theme": "brutalism",
-	"footer": "Made with ❤️ by <a href='https://e10y.dev'>E10Y</a>",
+	"footer": "© 2026 Harshira Official • Quality You Can Trust",
 	"profile":
 		{
-			"name": "OpenLinks",
-			"avatar": "avatar/Avatar.webp",
-			"description":"OpenSource JSON-driven",
+			"name": "Harshira Official",
+			"avatar": "https://github.com/harshiraofficial.png",
+			"description": "✨ Premium Quality • 🚚 Fast Pan-India Shipping • 📍 Surat, Gujarat",
 			"adult": false
 		}
 	,
 	"links": [
 		{
-			"name": "GitHub",
-			"url": "https://github.com/E10YDEV/OpenLinks",
-			"icon": "/icons/GitHub.svg"
+			"name": "Shop on Meesho",
+			"url": "https://www.meesho.com/HARSHIRA",
+			"icon": "/harshira-shop/icons/Web.svg"
 		},
 		{
-			"name": "Website",
-			"url": "https://e10y.dev",
-			"icon": "/icons/Web.svg"
+			"name": "Shop on Flipkart",
+			"url": "https://www.flipkart.com/search?q=Harshira",
+			"icon": "/harshira-shop/icons/Web.svg"
 		},
 		{
-			"name": "Instagram",
-			"url": "#",
-			"icon": "/icons/Instagram.svg"
+			"name": "Instagram Updates",
+			"url": "https://www.instagram.com/harshira_shop",
+			"icon": "/harshira-shop/icons/Instagram.svg"
 		},
 		{
-			"name": "Twitter",
-			"url": "#",
-			"icon": "/icons/X.svg"
-		},
-		{
-			"name": "Mail",
-			"url": "#",
-			"icon": "/icons/Mail.svg"
+			"name": "WhatsApp Inquiry",
+			"url": "https://wa.me/917801903266?text=Hi%20Harshira%20Official,%20I'm%20interested%20in%20your%20latest%20collection!",
+			"icon": "/harshira-shop/icons/Mail.svg"
 		}
 	]
 }

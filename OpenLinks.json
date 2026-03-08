@@ -31,7 +31,7 @@
 		{
 			"name": "WhatsApp Inquiry",
 			"url": "https://wa.me/917801903266?text=Hi%20Harshira%20Official,%20I'm%20interested%20in%20your%20latest%20collection!",
-			"icon": "/harshira-shop/icons/Mail.svg"
+			"icon": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
 		}
 	]
 }

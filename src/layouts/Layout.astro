@@ -21,8 +21,8 @@ const { themeClass, meta } = Astro.props;
 		<meta name="twitter:description" content={meta.description} />
 		<link rel="canonical" href={meta.url_base} />
 	</head>
-	<body class={`min-h-screen ${themeClass.background}`}>
-		<div class="container max-w-md mx-auto px-4 py-8">
+	<body class={`min-h-screen flex flex-col ${themeClass.background}`}>
+		<div class="container max-w-md mx-auto px-4 py-8 flex-grow">
 			<header><slot name="header" /></header>
 			<main><slot /></main>
 		</div>

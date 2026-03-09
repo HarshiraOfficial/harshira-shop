@@ -16,22 +16,22 @@
 		{
 			"name": "Shop on Flipkart",
 			"url": "https://www.flipkart.com/clothing-and-accessories/kurtas-ethnic-sets-and-bottoms/pr?sid=clo,cfv&q=findify&p[]=facets.brand%255B%255D%3DFINDIFY&otracker=categorytree",
-			"icon": "https://upload.wikimedia.org/wikipedia/commons/7/71/The_Flipkart_Logo_-_from_Official_Website.png"
+			"icon": "/harshira-shop/icons/Flipkart.png"
 		},
 		{
 			"name": "Shop on Meesho",
 			"url": "https://www.meesho.com/HARSHIRA",
-			"icon": "https://upload.wikimedia.org/wikipedia/commons/3/33/Meesho_logo.png"
+			"icon": "/harshira-shop/icons/Meesho.png"
 		},
 		{
 			"name": "Instagram Updates",
 			"url": "https://www.instagram.com/harshira_shop",
-			"icon": "https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"
+			"icon": "/harshira-shop/icons/Instagram.svg"
 		},
 		{
 			"name": "WhatsApp Inquiry",
 			"url": "https://wa.me/917801903266?text=Hi%20Harshira%20Official,%20I'm%20interested%20in%20your%20latest%20collection!",
-			"icon": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
+			"icon": "/harshira-shop/icons/WhatsApp.svg"
 		}
 	]
 }
